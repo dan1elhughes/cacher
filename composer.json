@@ -1,0 +1,19 @@
+{
+    "name": "xes/cacher",
+    "type": "library",
+    "description": "Simple file caching for PHP with string replacements",
+    "homepage": "https://github.com/dan1elhughes/cacher",
+    "authors": [
+        {
+            "name": "Dan Hughes",
+            "email": "dh@xes.io",
+            "homepage": "https://xes.io",
+            "role": "Developer"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"xes\\": "src/"
+		}
+	}
+}
